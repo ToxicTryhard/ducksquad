@@ -1,0 +1,9 @@
+Old versions
+  v1.0
+    Release 
+  v1.01
+    Added "Run at date"-feature`nFixed spelling in the help page
+
+Current version
+  v1.02
+    Added "Encoding"-feature`nFixed esc-button opening main gui when the script isn't running and nothing is selected
